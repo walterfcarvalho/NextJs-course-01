@@ -1,5 +1,3 @@
-import App from 'next/App'
-import Head from 'next/head'
 import GlobalStyle from '../src/theme/GlobalStyle'
 
 const MyApp = ({Component, pageProps}) => {
